@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/login",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "jsoft",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
